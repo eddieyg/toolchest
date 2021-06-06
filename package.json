@@ -1,0 +1,23 @@
+{
+  "name": "toolchest",
+  "version": "1.0.0",
+  "description": "In the daily coding experience, set the front-end commonly used tool code toolchest 在日常编码经验中集合前端常用小工具代码的工具箱",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eddieyg/toolchest.git"
+  },
+  "keywords": [
+    "toolchest",
+    "frontend"
+  ],
+  "author": "eddieyg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eddieyg/toolchest/issues"
+  },
+  "homepage": "https://github.com/eddieyg/toolchest#readme"
+}
